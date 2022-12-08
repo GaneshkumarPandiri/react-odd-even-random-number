@@ -1,0 +1,23 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  height: 100vh;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-type {
+  height: 40px;
+  width: 150px;
+  border-radius: 15px;
+  margin-top: 25px;
+  border-width: 0px;
+  margin-bottom: 15px;
+}
